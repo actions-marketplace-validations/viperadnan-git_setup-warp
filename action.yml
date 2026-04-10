@@ -1,4 +1,4 @@
-name: Setup Cloudflare WARP
+name: Setup WARP by Cloudflare
 description: Set up Cloudflare WARP on GitHub Actions runners with Docker support, automatic retries, and connectivity verification.
 author: Adnan Ahmad <viperadnan@gmail.com>
 

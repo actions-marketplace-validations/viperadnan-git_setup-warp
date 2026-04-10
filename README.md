@@ -1,4 +1,4 @@
-# Setup Cloudflare WARP
+# Setup WARP by Cloudflare
 
 A GitHub Action to set up [Cloudflare WARP](https://developers.cloudflare.com/warp-client/) on GitHub Actions runners. Routes all runner traffic (including Docker containers) through Cloudflare's network with automatic retries and connectivity verification.
 
